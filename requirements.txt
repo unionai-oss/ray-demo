@@ -1,3 +1,4 @@
+union==0.1.102
 flytekitplugins-ray==1.13.9
 ray==2.34.0
 memray==1.13.4
